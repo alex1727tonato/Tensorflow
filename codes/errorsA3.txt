@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "D:\ALEX\OCTAVO SEMESTRE\OPTATIVA II\TRABAJO GRUPAL\tensorflow\codes\modelA-train.py", line 5, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
